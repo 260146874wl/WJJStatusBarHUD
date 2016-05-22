@@ -6,9 +6,9 @@
 [WJJStatusBarHUD showSuccess:@"加载成功"];
 ```
 
-## 显示普通文字
+## 显示普通信息
 ```objc
-[WJJStatusBarHUD showMessage:@"约不约"];
+[WJJStatusBarHUD showMessage:@"约不约!!"];
 ```
 
 ## 显示错误信息
